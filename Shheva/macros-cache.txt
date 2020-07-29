@@ -1,0 +1,6 @@
+MACRO 16777218 " " INV_Misc_QuestionMark
+/target Levo
+END
+MACRO 16777217 " " INV_Misc_QuestionMark
+/y Star dying
+END
